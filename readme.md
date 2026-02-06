@@ -4,7 +4,7 @@ Este repositório contém o código desenvolvido durante o Bootcamp **"Bradesco 
 
 ---
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto demonstra como integrar **Speech-to-Text (voz para texto)** e **Text-to-Speech (texto para voz)** em uma conversa multi-idiomas com o ChatGPT, utilizando o **Whisper** da OpenAI para transcrição e o **Google Text-to-Speech (gTTS)** para síntese de voz.
 
@@ -12,7 +12,7 @@ O **Whisper** é um modelo de Reconhecimento Automático de Fala (ASR) treinado 
 
 ---
 
-## 🔧 Alterações realizadas
+##  Alterações realizadas
 
 Em relação ao código original do professor:
 - Atualização da versão do modelo do ChatGPT (`gpt-4o-mini` ou `gpt-3.5-turbo` em vez de `gpt-4`).  
@@ -21,7 +21,7 @@ Em relação ao código original do professor:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Google Colab** (ambiente de execução)  
 - **Whisper** (Speech-to-Text)  
@@ -30,7 +30,7 @@ Em relação ao código original do professor:
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone este repositório ou abra o arquivo `.py` no Google Colab.  
 2. Configure sua chave da OpenAI nos **Secrets** do Colab com o nome `OPENAI_API_KEY`.  
@@ -38,3 +38,4 @@ Em relação ao código original do professor:
    ```bash
 
    !pip install openai openai-whisper gTTS
+
