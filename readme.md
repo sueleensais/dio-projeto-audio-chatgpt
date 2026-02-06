@@ -1,6 +1,6 @@
 # Projeto Bootcamp Bradesco – GenAI & Dados
 
-Este repositório contém o código desenvolvido durante o Bootcamp **"Bradesco - GenAI & Dados"**, baseado no material do professor, mas com algumas adaptações feitas por mim.
+Este repositório contém o código desenvolvido durante o Bootcamp **"Bradesco - GenAI & Dados"**, baseado no material do instrutor Venilton FalvoJr, mas com algumas adaptações feitas por mim.
 
 ---
 
@@ -38,4 +38,5 @@ Em relação ao código original do professor:
    ```bash
 
    !pip install openai openai-whisper gTTS
+
 
