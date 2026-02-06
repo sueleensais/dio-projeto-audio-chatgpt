@@ -36,4 +36,5 @@ Em relação ao código original do professor:
 2. Configure sua chave da OpenAI nos **Secrets** do Colab com o nome `OPENAI_API_KEY`.  
 3. Instale as dependências necessárias:
    ```bash
+
    !pip install openai openai-whisper gTTS
